@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**luizmarcicano/luizmarcicano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Luiz G Lima Marcicano 
 
 Here are some ideas to get you started:
 
