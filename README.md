@@ -1,5 +1,5 @@
-### We're now going to progress to some steps which are a bit more difficult
-#### Ready, set, and begin
+#### We're now going to progress to some steps which are a bit more difficult
+### Ready, set, and begin
 ![Alt Text](https://media.giphy.com/media/dj7zP63Xms7sY/giphy.gif)
 
 
