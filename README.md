@@ -3,6 +3,7 @@
 ![Alt Text](https://media.giphy.com/media/OBnwDJW77acLK/giphy.gif)
 
 
+#### Hello World!
 - 📋 I’m currently practicing CSS, Python and Premiere/Audition 
 - :basecamp: I’m looking foward to collaborate on some projects, and be a part of some hackatons!
 - 🆘 I’m looking for help with Power BI.
