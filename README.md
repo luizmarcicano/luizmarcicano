@@ -1,6 +1,6 @@
 #### 🗨️ We're now going to progress to some steps which are a bit more difficult
 ### Ready, set, and begin
-![Alt Text](https://media.giphy.com/media/dj7zP63Xms7sY/giphy.gif)
+![Alt Text](https://media.giphy.com/media/OBnwDJW77acLK/giphy.gif)
 
 
 - 📋 I’m currently practicing CSS, Python and Premiere/Audition 
