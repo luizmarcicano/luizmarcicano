@@ -13,7 +13,7 @@
 
 
 
-#### 📬 Please feel welcome to give me tips and other knoledge/advice, I'm a work in progress and there's always a lot to learn ...
+#### 📬 Please feel welcome to give me any sort of tips and other advice, I'm a work in progress and there's always a lot to learn...
 ![Alt Text](https://media.giphy.com/media/3o6MbqtuPsfPShc3Ek/giphy.gif)
 
 
