@@ -5,7 +5,7 @@
 
 #### Hello World!
 - 📋 I’m currently practicing CSS, Python and Premiere/Audition 
-- :basecamp: I’m looking foward to collaborate on some projects, and be a part of some hackatons!
+- :basecamp: I’m looking forward to collaborate on some projects, and be a part of some hackatons!
 - 🆘 I’m looking for help with Power BI.
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/luiz-guilherme-lima-marcicano-2889a2170/)
